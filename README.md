@@ -17,7 +17,7 @@ Open `dist/index.html` in your browser. All assets are local, so no install or b
 
 ## Technologies and design
 
-Semantic HTML5, CSS3, Bootstrap 5.3.3, and vanilla JavaScript. Bootstrap supplies the responsive grid, spacing utilities, and form foundations. Custom CSS supplies the studio's visual identity. The palette is warm cream, near-black, and electric blue. Large headings convey creative confidence; restrained layouts keep the content readable. Navigation and footers are intentionally repeated in four HTML files so each page is independently understandable. Keep them consistent when editing.
+Semantic HTML5, CSS3, Bootstrap 5.3.3, and vanilla JavaScript. Bootstrap supplies the responsive grid, spacing utilities, and form foundations. Custom CSS supplies the studio's visual identity. The palette is warm cream, near-black, and soft blue. Large headings convey creative confidence; restrained layouts keep the content readable. Navigation and footers are intentionally repeated in four HTML files so each page is independently understandable. Keep them consistent when editing.
 
 ## Contact behavior
 
@@ -37,4 +37,4 @@ The project uses a dedicated private GitHub repository: https://github.com/Daxto
 
 ## Third-party assets
 
-Bootstrap 5.3.3: https://getbootstrap.com/ — MIT license retained in the vendored CSS header. The concept image was generated with OpenAI image generation for this project. Arial and Georgia use system fonts, with no external font requests.
+Bootstrap 5.3.3: https://getbootstrap.com/ — MIT license retained in the vendored CSS header. The concept image was generated with OpenAI image generation for this project. Inter is used when installed, followed by system sans-serif fonts; Georgia is a system serif fallback. No external font requests are made.
